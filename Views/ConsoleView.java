@@ -33,7 +33,7 @@ public class ConsoleView {
         System.out.println("Here are the Commands:");
         System.out.println("FAN:\t fan on | fan off | fan increase | fan decrease | fan status");
         System.out.println("LIGHT:\t light on | light off | light status");
-        System.out.println("AC:\t ac on | ac off | ac status");
+        System.out.println("AC:\t ac on | ac off | ac heat | ac cool | ac status");
         System.out.println("status");
         System.out.println("exit");
     }
